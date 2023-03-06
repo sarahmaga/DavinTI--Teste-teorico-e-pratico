@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ## Observação: foi usado o Anaconda versão 22.9.0 no desenvolvimento desta aplicação WEB
 ## Python versão 3.9.13, disponibilizado pela Anaconda
 
-# Instalação Anaconda Linux
+## Instalação Anaconda Linux
 https://repo.anaconda.com/archive/Anaconda3-2022.10-Linux-x86_64.sh
 ```
 bash Anaconda3-2022.10-Linux-x86_64.sh
