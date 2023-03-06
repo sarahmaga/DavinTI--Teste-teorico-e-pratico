@@ -6,9 +6,10 @@
 * Faker (Generates fake data)
 
 ## Instalação necessária
+```
 >>> pip install -r requirements.txt
-
-## Observação, foi usado o Anaconda versão 22.9.0 no desenvolvimento desta aplicação WEB
+```
+## Observação: foi usado o Anaconda versão 22.9.0 no desenvolvimento desta aplicação WEB
 ## Python versão 3.9.13, disponibilizado pela Anaconda
 
 # Instalação Anaconda Linux
@@ -21,6 +22,8 @@ https://repo.anaconda.com/archive/Anaconda3-2022.10-MacOSX-x86_64.pkg  Intel chi
 https://repo.anaconda.com/archive/Anaconda3-2022.10-MacOSX-arm64.pkg   Apple chip
  
 ## Para rodar a aplicação
+```
 >>> python3 migrations.py <----- criação do banco de dados com dados fakes
 >>> python3 app.py
+```
 
