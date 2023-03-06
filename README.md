@@ -29,4 +29,5 @@ arquivo migrations.py é usado para criação do banco de dados com dados fakes.
 python3 migrations.py 
 python3 app.py
 ```
+## O pdf com as questões se encontra nessa mesma pasta
 
